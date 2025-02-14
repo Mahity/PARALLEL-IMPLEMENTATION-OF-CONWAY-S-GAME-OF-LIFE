@@ -81,15 +81,4 @@ The performance of each implementation is analyzed in the report, including runt
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
----
 
-### Key Features of the `README.md`:
-1. **Project Description**: Briefly explains the purpose of the project.
-2. **Repository Structure**: Lists all files and folders with their purposes.
-3. **Build and Run Instructions**: Provides clear steps to compile and run the code.
-4. **Parameters**: Describes the command-line arguments for the simulation.
-5. **Results**: Summarizes the key findings from the report.
-6. **Future Work**: Suggests potential improvements and extensions.
-7. **License**: Specifies the license for the project.
-
-This `README.md` is concise, informative, and provides all the necessary details for someone to understand and use your project.
